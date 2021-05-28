@@ -23,3 +23,7 @@ The configuration file is a single properties file include both ZooKeeper and Wa
 ## Getting Started
 
 To start WanKeeper server, run scripts in `bin` folder.
+
+## paper reference
+
+https://cse.buffalo.edu/faculty/tkosar/papers/icdcs_2017.pdf 
